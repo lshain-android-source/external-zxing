@@ -1,0 +1,4 @@
+external-zxing
+==============
+
+external-zxing
